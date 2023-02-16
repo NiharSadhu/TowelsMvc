@@ -6,7 +6,7 @@
 
 3) Finally, I performed scaffolding operations in the applicationdbcontext to expedite the development process.
 
-4)To improve the navigational experience for users of the website, I made modifications to the project page. Specifically, I updated the title to reflect the name of the fictional company and included a hyperlink to the product catalogue page.
+4) To improve the navigational experience for users of the website, I made modifications to the project page. Specifically, I updated the title to reflect the name of the fictional company and included a hyperlink to the product catalogue page.
 By doing so, I aimed to make it easier for users to navigate to the relevant content on the website, and to create a more cohesive and branded user experience throughout the site. These modifications were made with a view to enhancing the overall functionality and user-friendliness of the website.
 
 5) Then, I made a about us page describing the fictional company, corporate headquarters, staff and general description of the product.
