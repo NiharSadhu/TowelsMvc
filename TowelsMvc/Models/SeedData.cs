@@ -14,7 +14,7 @@ namespace TowelsMvc.Models
                 serviceProvider.GetRequiredService<
                     DbContextOptions<ApplicationDbContext>>()))
             {
-                // Look for any movies.
+                
                 if (context.Towel.Any())
                 {
                     return;   // DB has been seeded
