@@ -1,4 +1,14 @@
-﻿body {
+﻿@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Lato:wght@700&family=Lobster&family=Poor+Story&display=swap');
+body {
     background-color: grey;
+    color: white;
+    font-family: 'Lato';
+}
+
+nav {
+    background-color: darkgray;
+}
+
+footer {
     color: white;
 }
