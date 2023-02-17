@@ -4,6 +4,8 @@ using TowelsMvc.Data;
 using System;
 using System.Linq;
 
+//I this I seeded the data/Values in the catalogue page manually.
+
 namespace TowelsMvc.Models
 {
     public static class SeedData

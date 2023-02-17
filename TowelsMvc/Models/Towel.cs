@@ -5,6 +5,7 @@ namespace TowelsMvc.Models
 {
     public class Towel
     {
+        //This is the properties for my catalogue page
         public int Id { get; set; }
         public string Material { get; set; }
         public string Size { get; set; }
